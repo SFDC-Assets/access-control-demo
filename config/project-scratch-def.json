@@ -1,7 +1,9 @@
 {
   "orgName": "amyneni company",
-  "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
+  "edition": "Enterprise",
+  "features": ["EnableSetPasswordInApi","ServiceUser","ServiceCloud","SalesUser","AddCustomObjects:10","AuthorApex","DebugApex","RecordTypes","ProcessBuilder","AddCustomApps:5","AddCustomRelationships:10","AddCustomTabs:5","API"],
+  "hasSampleData": true,
+  
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true

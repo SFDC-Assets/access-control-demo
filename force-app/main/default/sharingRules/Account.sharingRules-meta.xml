@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingOwnerRules>
+        <fullName>Eastern_Sales_Team_Access</fullName>
+        <accessLevel>Read</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>Read</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <label>Eastern Sales Team Access</label>
+        <sharedTo>
+            <role>Eastern_Sales_Team</role>
+        </sharedTo>
+        <sharedFrom>
+            <role>Western_Sales_Team</role>
+        </sharedFrom>
+    </sharingOwnerRules>
+</SharingRules>
