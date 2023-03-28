@@ -160,7 +160,13 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Loan Applications</pluralLabel>
-    <searchLayouts></searchLayouts>
-    <sharingModel>Read</sharingModel>
+    <searchLayouts>
+        <searchResultsAdditionalFields>Account__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Opportunity__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Loan_Purpose__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Loan_Amount__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Application_Status__c</searchResultsAdditionalFields>
+    </searchLayouts>
+    <sharingModel>Private</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
