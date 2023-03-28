@@ -1,6 +1,5 @@
-# Devops Center Demo
-Sets up 2 scratch orgs to test out the configuration and deployment of code with DevOps Center! Run this from platformdemos.com/s/developer-demos
+# Access Control Demos
+Sets up multiple examples of how access controls in Salesforce works! Run this from platformdemos.com/s/app-dev-demos
 
 Created by: 
-Melissa Layupen
-Jonathan Zhou
+Lakshmi Anusha Mynemi
