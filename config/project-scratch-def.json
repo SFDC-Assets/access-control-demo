@@ -1,9 +1,9 @@
 {
-  "orgName": "amyneni company",
+  "orgName": "Access Control Demo",
   "edition": "Enterprise",
-  "features": ["EnableSetPasswordInApi","ServiceUser","ServiceCloud","SalesUser","AddCustomObjects:10","AuthorApex","DebugApex","RecordTypes","ProcessBuilder","AddCustomApps:5","AddCustomRelationships:10","AddCustomTabs:5","API"],
+  "adminEmail": "accessControl@example.com",
+  "features": ["EnableSetPasswordInApi","ServiceUser","ServiceCloud","SalesUser","AddCustomObjects:10","AuthorApex","DebugApex","RecordTypes","AddCustomApps:5","AddCustomRelationships:10","AddCustomTabs:5","API"],
   "hasSampleData": true,
-  
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true

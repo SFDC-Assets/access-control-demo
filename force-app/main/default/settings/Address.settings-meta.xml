@@ -1101,7 +1101,7 @@
         <countries>
             <active>true</active>
             <integrationValue>Cuba</integrationValue>
-            <isoCode>CU</isoCode>
+            <isoCode>CUB</isoCode>
             <label>Cuba</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
