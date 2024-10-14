@@ -19,20 +19,6 @@ user1.EmailEncodingKey = 'UTF-8';
 user1.LanguageLocaleKey = 'en_US';
 usersToCreate.add(user1);
 
-// Create Tim Service
-User user2 = new User();
-user2.FirstName = 'Tim';
-user2.LastName = 'Service';
-user2.UserName = 'tim.service@example.com'+randomHexString;
-user2.Email = 'tim.service@example.com';
-user2.Alias = 'tim';
-user2.ProfileId = adminProfile.Id;
-user2.TimeZoneSidKey = 'GMT';
-user2.LocaleSidKey = 'en_US';
-user2.EmailEncodingKey = 'UTF-8';
-user2.LanguageLocaleKey = 'en_US';
-usersToCreate.add(user2);
-
 // Create Sue Marketing
 User user3 = new User();
 user3.FirstName = 'Sue';
