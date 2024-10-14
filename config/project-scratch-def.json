@@ -11,6 +11,9 @@
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
     },
+    "securitySettings": {
+      "enableAdminLoginAsAnyUser":true
+    },
     "customAddressFieldSettings": {
       "enableCustomAddressField": true
     }
