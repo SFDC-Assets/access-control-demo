@@ -2,7 +2,7 @@
   "orgName": "Access Control Demo",
   "edition": "Enterprise",
   "adminEmail": "accessControl@example.com",
-  "features": ["FinancialServicesUser:5","EnableSetPasswordInApi","ServiceUser","ServiceCloud","SalesUser","AddCustomObjects:10","AuthorApex","DebugApex","RecordTypes","AddCustomApps:5","AddCustomRelationships:10","AddCustomTabs:5","API"],
+  "features": ["FinancialServicesUser:10","EnableSetPasswordInApi","ServiceUser","ServiceCloud","SalesUser","AddCustomObjects:10","AuthorApex","DebugApex","RecordTypes","AddCustomApps:5","AddCustomRelationships:10","AddCustomTabs:5","API"],
   "hasSampleData": true,
   "settings": {
     "lightningExperienceSettings": {
